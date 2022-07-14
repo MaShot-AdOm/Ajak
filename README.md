@@ -1,0 +1,2 @@
+# Ajak
+Trying out git
